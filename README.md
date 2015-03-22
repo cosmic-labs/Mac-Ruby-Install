@@ -4,4 +4,4 @@ Why does Windows have it's own installer and not Mac?
 
 Proccess takes about an hour.
 
-GUI version Now Out!
+With Mac Ruby Install GUI you can do the proccess in a less confusing way!
