@@ -1,3 +1,7 @@
+#Mac Ruby Install 1.1!
+
+Minified!
+
 #About
 
 We help stop the OUTRAGING proccess of downloading and installing ruby on mac.
