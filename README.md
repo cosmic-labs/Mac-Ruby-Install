@@ -1,6 +1,6 @@
-#Mac Ruby Install 1.1!
+#Mac Ruby Install 1.2.5
 
-Minified!
+Asks sudo access from the start, tells you when it Ruby is installed!
 
 #About
 
