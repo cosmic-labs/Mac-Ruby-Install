@@ -1,3 +1,7 @@
+#System Requirements
+
+Mac OSX 9+
+
 #What Does Minified Mean?
 
 If you are copying and pasting the code the "Minified" version is what you want so you do not have to go back/ to the terminal until it's done.
