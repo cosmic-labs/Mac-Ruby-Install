@@ -2,9 +2,9 @@
 
 If you are copying and pasting the code the "Minified" version is what you want so you do not have to go back/ to the terminal until it's done.
 
-#Mac Ruby Install 1.2.5
+#Mac Ruby Install 1.3
 
-Asks sudo access from the start, tells you when it Ruby is installed!
+Showes notifacation when mac-ruby-install is done!
 
 #About
 
