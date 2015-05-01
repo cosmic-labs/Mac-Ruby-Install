@@ -7,3 +7,4 @@ cd ruby-2.0.0-p247
 make
 sudo make install
 echo Mac Ruby Install is done
+display notification "Mac-Ruby-Install is done!" with title "Yay!"
